@@ -2,7 +2,7 @@
 
 [![Weathereader Mobile](https://img.shields.io/badge/Minh%20Tran-Weathereader%20Mobile-brightgreen.svg?style=flat)](https://android-arsenal.com/details/3/7678)
 
-<p align="center"><gif src="assets/103912-purple.gif" /></p>
+<p align="center"><img src="assets/103912-purple.gif" width="100%/></p>
 
 **Highlights**
 
@@ -15,7 +15,14 @@
 
 **Screenshot**
 
-<p align="center"><img src="assets/loading-tab.png" /> <img src="assets/home-tab.png" /></p>
+<table>
+<tr>
+<td><img src="./assets/loading-tab.png" width="100%">
+</td>
+<td><img src="./assets/home-tab.png" width="100%">
+</td>
+</tr>
+</table>
 
 **Credit**
 
