@@ -58,8 +58,8 @@ const styles = StyleSheet.create({
 		flex: 1,
 	},
 	animation: {
-		width: 120,
-		height: 120,
+		width: 100,
+		height: 100,
 	},
 	createdBy: {
 		alignItems: "center",

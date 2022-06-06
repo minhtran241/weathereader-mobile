@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://power-of-words.github.io/PowerOfWordsProject/">
-    <img src="./assets/icon.png" alt="Logo" width=200 height=200>
+    <img src="./assets/icon.png" alt="Logo" width=130 height=130>
   </a>
 
   <h3 align="center">Weathereader Mobile</h3>
@@ -30,7 +30,7 @@
 
 ## 👾 Description
 
-Weathereader-Mobile is a cross-platform mobile application designed to help users check weather in their current location. The app provide details about the current weather which make it easier for user to
+Weathereader-Mobile is a cross-platform mobile application designed to help users check weather in their current location. The app provide details about the current weather and the information within the next 5 days.
 
 ## 🏁 Quick start
 
@@ -38,21 +38,32 @@ This is an Expo app . You should follow the instructions in the [official websit
 
 ## ？What's included
 
--   Beautiful Loading Tab
--   Temperature
--   Weather Description
--   Weather Status
--   Feels like
--   Humidity
--   Wind Speed
--   Pressure
+💥 Beautiful Loading Tab
 
-### 💥 Icons
+💥 Temperature
+
+💥 Weather Description
+
+💥 Weather Status
+
+💥 Feels like
+
+💥 Humidity
+
+💥 Wind Speed
+
+💥 Pressure
+
+💥 Forcast by time (within 5 days)
+
+### 🤡 Icons
 
 -   MaterialCommunityIcons
 -   FontAwesome5
+-   Entypo
+-   Focustio
 
-## 📸 Screenshot
+## 📸 Tabs
 
 <table>
 <tr>
@@ -67,6 +78,14 @@ This is an Expo app . You should follow the instructions in the [official websit
 </tr>
 </table>
 
+## 🔄 Loading
+
+Loading Tab uses [Lottie Animation](https://docs.expo.dev/versions/latest/sdk/lottie/) 💥
+
+<div align="center">
+<img src="./assets/loading.gif" width="30%">
+</div>
+
 ## 🪳 Bugs and feature requests
 
 Have a bug or a feature request? Please first read the [issue guidelines]() and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/Power-Of-Words/PowerOfWordsProject/issues/new).
@@ -77,6 +96,10 @@ Please read through our [contributing guidelines](). Included are directions for
 
 ## © Copyright and license
 
+<!-- <div align="center"> -->
+
 Code and documentation copyright 2022 by Minh Tran.<br> <br>[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <br><br>
 Enjoy :metal:
+
+<!-- </div> -->
