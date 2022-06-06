@@ -1,8 +1,8 @@
 import React from "react";
-import { StyleSheet, View, Text } from "react-native";
-import LottieView from "lottie-react-native";
+import { StyleSheet, View, Text, Image } from "react-native";
+// import LottieView from "lottie-react-native";
 import { LinearGradient } from "expo-linear-gradient";
-import { colors } from "./utils/index";
+import { colors } from "../utils/index";
 
 const { PRIMARY_COLOR, SECONDARY_COLOR } = colors;
 
@@ -18,12 +18,16 @@ export default function SimpleLottie({ animation }) {
 			<View
 				style={{ ...styles.animationContainer, bottom: 50 }}
 			>
-				<LottieView
+				{/* <LottieView
 					autoPlay
 					ref={animation}
 					style={styles.animation}
 					source={require("./assets/103912-purple.json")}
 					loop
+				/> */}
+				<Image
+					style={styles.animation}
+					source={require("../assets/icon.png")}
 				/>
 			</View>
 			<View style={styles.createdBy}>
@@ -54,8 +58,8 @@ const styles = StyleSheet.create({
 		flex: 1,
 	},
 	animation: {
-		width: 180,
-		height: 180,
+		width: 120,
+		height: 120,
 	},
 	createdBy: {
 		alignItems: "center",

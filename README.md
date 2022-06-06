@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://power-of-words.github.io/PowerOfWordsProject/">
-    <img src="./assets/103912-purple.gif" alt="Logo" width=300 height=300>
+    <img src="./assets/icon.png" alt="Logo" width=200 height=200>
   </a>
 
   <h3 align="center">Weathereader Mobile</h3>
@@ -56,9 +56,13 @@ This is an Expo app . You should follow the instructions in the [official websit
 
 <table>
 <tr>
-<td><img src="./assets/loading-tab.png" width="100%">
+<td><img src="./assets/SplashScreen.png" width="100%">
 </td>
-<td><img src="./assets/home-tab.png" width="100%">
+<td><img src="./assets/CScreen.png" width="100%">
+</td>
+<td><img src="./assets/FScreen.png" width="100%">
+</td>
+<td><img src="./assets/Forecast.png" width="100%">
 </td>
 </tr>
 </table>

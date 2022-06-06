@@ -125,7 +125,7 @@ const styles = StyleSheet.create({
 		borderWidth: 3,
 		borderColor: BORDER_COLOR,
 		borderRadius: 30,
-		marginBottom: 30,
+		marginBottom: 40,
 	},
 	weatherDetailsRow: {
 		flexDirection: "row",
